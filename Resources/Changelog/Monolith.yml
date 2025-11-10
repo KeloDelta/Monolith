@@ -13913,3 +13913,12 @@ Entries:
   id: 1539
   time: '2025-11-10T07:04:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2546
+- author: Avalon-Proto
+  changes:
+    - type: Add
+      message: >-
+        The once glorious union's flagship has appeared in sector once more,
+        shattered and decrepit, but possibly fixable...?
+  id: 1540
+  time: '2025-11-10T07:04:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2547
